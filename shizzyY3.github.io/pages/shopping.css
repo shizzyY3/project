@@ -115,10 +115,10 @@ h2{
   justify-content: center;
   margin: 0 auto;
   color: black;
-  position: absolute;
-  top: 820px;
+  top: 540px;
   text-align: center;
   font-family: 'Belanosima', arial, serif;
+  position: relative;
 }
 .navbar-link {
   display: flex;
